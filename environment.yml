@@ -33,3 +33,5 @@ dependencies:
   - tensorflow
   - torch
   - torchvision
+  - opencv-python
+  - scikit-image
